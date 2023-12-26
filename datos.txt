@@ -4,3 +4,5 @@ dato 2
 b
 dato 3
 c
+dato 4
+d
